@@ -9,7 +9,7 @@ Testové scénáře:
 - Příchod na Hlavní stránku a vyhledání výrazu `Kazma`, kontrola přesměrování a existence neprázdných výsledků (Nejlepší výsledek, Pořady, Videa)
 - Vyhledání neexistujícího výrazu, např. `abcdsuperbullshit42` a kontrola vypsání upozorńující hlášky, že jsme nic nenašli
 - Příchod na prázdnou stránku vyhledávání (`/hledani`) a kontrola, že již neobshauje nějaké výsledky, tedy čeká na zadání výrazu
-- Zahledání z libovolné stránky výrazu `Kazma`, kontrola existence videí, klik na `Načíst další videa` a kontrola zdali načtení proběhlo správně a položky přibyli
+- Zahledání z libovolné stránky výrazu `Kazma`, kontrola existence videí, klik na `Načíst další videa` a kontrola zdali načtení proběhlo správně a položky přibyly
 - Libovolný test funkcionality filtrování výpisu videí. Nad seznamem videí máme Tlačítko `Filtry`, které vyroluje možnosti filtrace (jde nám o akci a změnu, nikoliv programatickou kontrolu jestli jsou položky správně seřazené)
 - Další testy, které by podle tebe měly být součástí testování funkcionality stránky vyhledávání
 
